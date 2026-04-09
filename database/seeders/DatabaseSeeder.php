@@ -21,6 +21,8 @@ class DatabaseSeeder extends Seeder
             TypeSeeder::class,
             LocalitySeeder::class,
             RoleSeeder::class,
+            PriceSeeder::class,
+            UserSeeder::class,
             
 
         ]);
